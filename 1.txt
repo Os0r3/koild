@@ -1,0 +1,5 @@
+CREATE TABLE prac(
+	SrNo INT,
+	filename VARCHAR(40),
+	FileTypr VARHCAR(20),
+	PRIMARY KEY (SrNo) AUTO INCREMENT);
